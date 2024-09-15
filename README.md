@@ -42,15 +42,10 @@ I always loved **Technology** so I decided to become an Ethical Hacker. I hope i
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
-👉 Still Learning Bug hunting & malware forensics.
-
-👉 Managing Tech Communities & Content creator.
 
 👉 Writing Some Useful Tools For Myself & Communities
 
 👉 Building & Contributing To Open Source Projects
-
-👉 Currently Learning mobile pentesting & web3 
 
 `Updating:`  Journey to Cybersecurity Specialist.
 
@@ -77,4 +72,4 @@ I always loved **Technology** so I decided to become an Ethical Hacker. I hope i
 <p align="center">
 <a>🌱</a>
 </p>
-[Coffintsp](https://github.com/coffinsp)
+Code was taken from https://github.com/coffinsp
