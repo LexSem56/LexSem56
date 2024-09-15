@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/LexSem56/LexSem56/blob/main/anonimous-hacker.gif" width="100%" height="auto"/></p>
+<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fkarthi-the-hacker%2Fkarthi-the-hacker&psig=AOvVaw1DSg-DF2nUWvBQRWbGAitC&ust=1726495174146000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCKy-6NxYgDFQAAAAAdAAAAABAE" width="100%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
