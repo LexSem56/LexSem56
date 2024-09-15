@@ -25,7 +25,7 @@ I always loved **Technology** so I decided to become an Ethical Hacker. I hope i
   <summary>More about me</summary>
 
 - **Name**: LexSem
-- **From**: Russia
+- **From**: US
 - **Ethical Hacker** | **Bug Bounty** 
 - i have experience in **Bug Bounty** & **Reverse Engineering**
 - **Reverse Engineering**, **Bug Bounty**
