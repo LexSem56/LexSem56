@@ -61,7 +61,7 @@ I always loved **Technology** so I decided to become an Ethical Hacker. I hope i
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/LexSem56/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LexSem56)](https://github.com/LexSem56/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=coffinsp&theme=dark&card_width=450)](https://git.io/streak-stats) 
  <p align="left"><a href="https://github.com/coffinsp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffinsp&layout=compact&theme=vision-friendly-dark" width="450"" /></a></p>
 
