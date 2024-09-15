@@ -71,7 +71,7 @@ I always loved **Technology** so I decided to become an Ethical Hacker. I hope i
 
 
 <p align="center">
-  <b><i>"Never give up.Code was taken from [coffinsp](https://github.com/coffinsp)"</i></b>
+  <b><i>"Never give up.Code was taken from [coffinsp](https://github.com/coffinsp)."</i></b>
 </p>
 
 <p align="center">
