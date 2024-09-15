@@ -42,6 +42,9 @@ I always loved **Technology** so I decided to become an Ethical Hacker. I hope i
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
+👉 Malware forensics
+
+👉 Do Some Bug Bounty
 
 👉 Writing Some Useful Tools For Myself & Communities
 
