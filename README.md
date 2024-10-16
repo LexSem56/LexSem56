@@ -62,16 +62,8 @@ I always loved **Technology** so I decided to become an Ethical Hacker. I hope i
   [![GitHub Streak](https://streak-stats.demolab.com?user=LexSem56&theme=dark&card_width=450)](https://git.io/streak-stats) 
  <p align="left"><a href="https://github.com/LexSem56/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LexSem56&layout=compact&theme=vision-friendly-dark" width="450"" /></a></p>
 
-<br><br>
 
 
 
 
-<p align="center">
-  <b><i>"Never give up. Never back down."</i></b>
-</p>
-
-<p align="center">
-<a>🌱</a>
-</p>
-Code was taken from https://github.com/coffinsp
+<
